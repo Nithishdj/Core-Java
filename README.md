@@ -47,27 +47,32 @@ Core-Java/
    ```bash
    git clone https://github.com/Nithishdj/core-java.git
    cd core-java
-📖 Learning Roadmap
 
-Start with Java basics (syntax, variables, data types).
+---
+   
+## 📖 Learning Roadmap
+  - "Step 1: Start with Java basics (syntax, variables, data types)"
+  - "Step 2: Learn decision-making (if, else, switch) and loops (for, while, do-while)"
+  - "Step 3: Dive into OOP concepts (classes, objects, inheritance, polymorphism)"
+  - "Step 4: Explore arrays, strings, and collections"
+  - "Step 5: Practice exception handling and multithreading"
+  - "Step 6: Learn file handling and I/O streams"
 
-Learn decision-making (if, else, switch) and loops (for, while, do-while).
+---
 
-Dive into OOP concepts (classes, objects, inheritance, polymorphism).
+## 🎯 Goal
+  The goal of this repo is to **practice and master Core Java fundamentals**
+  so that I can move on to advanced topics and real-world projects confidently.
 
-Explore arrays, strings, and collections.
+---
 
-Practice exception handling and multithreading.
+## 🤝 contribution
+  If you’re also learning Java, feel free to **fork this repo**,  
+  try out the examples, and share your own solutions.
 
-Learn file handling and I/O streams.
-🎯 Goal
+---
 
-The goal of this repo is to practice and master Core Java fundamentals so that I can move on to advanced topics and real-world projects confidently.
-🤝 Contribution
+## 💬 contact
+  email: "📧 nithishnithi0210@gmail.com"
+  github: "🌐 https://github.com/Nithishdj"
 
-If you’re also learning Java, feel free to fork this repo, try out the examples, and share your own solutions.
-📬 Contact
-
-📧 Email: your-email@example.com
-
-🌐 GitHub: Nithishdj

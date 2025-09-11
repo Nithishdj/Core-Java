@@ -23,18 +23,6 @@ Key concepts in Core Java include:
 
 ---
 
-## 📂 Repository Structure  
-Core-Java/
-│
-├── basics/ # Data types, operators, control statements
-├── oop/ # Classes, objects, inheritance, polymorphism
-├── collections/ # ArrayList, HashMap, Set, etc.
-├── exceptions/ # Exception handling programs
-├── multithreading/ # Threads and concurrency
-└── io/ # File handling examples
-
----
-
 ## 🛠️ Tools & Setup  
 - **JDK** (Java Development Kit) 8 or higher  
 - **IDE**: Eclipse / IntelliJ IDEA / VS Code  

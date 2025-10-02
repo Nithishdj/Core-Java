@@ -6,7 +6,7 @@ This repo contains notes, practice programs, and examples that cover the fundame
 ---
 
 ## 📌 About Core Java  
-Core Java refers to the **basic features of the Java programming language**. It is the foundation for all advanced Java technologies like Java EE, Spring, Hibernate, etc.  
+Core Java refers to the **basic features of the Java programming language**. It is the foundation for all advanced Java technologies like Java EE, Spring, Hibernate, etc. 
 
 Key concepts in Core Java include:  
 - ✅ Object-Oriented Programming (OOP)  

@@ -36,3 +36,4 @@ public class DequeImplementation {
 		System.out.println(qd.removeLast());//removes and prints from back
 	}
 }
+

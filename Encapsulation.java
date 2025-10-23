@@ -21,4 +21,5 @@ public class Encapsulation{
 		System.out.println(obj.getName());
 		System.out.print(obj.getRollno());
 	}
+
 }
